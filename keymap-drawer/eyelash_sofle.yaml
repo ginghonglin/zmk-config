@@ -55,10 +55,10 @@ layers:
   - {t: '-', s: _}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:backspace-reverse-outline$$
-  - $$mdi:keyboard-space$$
   - HOME
   - END
+  - $$mdi:keyboard-space$$
+  - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
